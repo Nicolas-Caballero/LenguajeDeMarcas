@@ -1,0 +1,42 @@
+1. Al modificar la extension del archivo a .html el navegador puede leer u reconocer las etiquetas poniendo el contenido segun su funcion.
+
+
+2.
+<dam>
+ <modulo><titulo>Lenguaje de Marcas</titulo>
+ <contenido>
+<unidad>Introducción</unidad>
+<unidad>HTML</unidad>
+<unidad>CSS</unidad>
+…
+ </contenido>
+ </modulo>
+
+ <modulo><titulo>Lenguaje de Marcas</titulo>
+ <contenido>
+<unidad>Introducción</unidad>
+<unidad>HTML</unidad>
+<unidad>CSS</unidad>
+…
+ </contenido>
+ </modulo>
+
+ <modulo><titulo>Programacion</titulo>
+ <contenido>
+<unidad>Introducción</unidad>
+<unidad>bases de ña programacion
+    
+    <modulo><titulo>Lenguaje de Marcas</titulo>
+ <contenido>
+<unidad>Introducción</unidad>
+<unidad>HTML</unidad>
+<unidad>CSS</unidad>
+…
+ </contenido>
+ </modulo>L</unidad>
+<unidad>CSS</unidad>
+…
+ </contenido>
+ </modulo>
+…
+</dam>
