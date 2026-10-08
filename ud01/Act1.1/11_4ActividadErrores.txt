@@ -1,0 +1,6 @@
+En la primera linea la etiqueta con el atributo "lang" esta mal escrita.
+en la tecera linea la etiqueta "title" no esta cerrada
+En la linea 6 la etiqueta h1 no esta cerrada
+en la linea 7 las etiquetas al final estan mal ordenadas
+en la linea 8 la etiqueta p no esta cerrada
+en la linea 10 y 11 las etiquetas "li" no estan cerradas
