@@ -1,0 +1,17 @@
+h1 em{
+    color: orange;
+}
+li p{
+    background-color: gray;
+}
+.comentarios p{
+    border: 1px;
+}
+
+p.especial {
+    background-color: blue;
+}
+
+span.especial{
+    color: violet;
+}
