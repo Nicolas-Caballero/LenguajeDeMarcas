@@ -1,0 +1,13 @@
+
+h1{
+    color: palegoldenrod;
+    text-align: center;
+    direction: ltr;
+}
+
+h2{
+    color: blue;
+}
+p{text-align: justify;}
+* {font-family: 'Times New Roman', Times, serif;}
+/* Al cambiar la ubicacion al final cambia la prioridad del comando. Las ultimas tienen prioridad */
