@@ -4,9 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        caption {
+            caption-side: bottom;
+        }
+        table, th, td {
+            border: 1px solid black;
+            border-spacing: 10px ;
+        }
+    </style>
 </head>
 <body>
-    <caption>Productos para pelo riazdo</caption>
+    <table>
+        <caption>Productos para pelo riazdo</caption>
     <thead>
         <tr>
             <th>Nombre</th>
@@ -16,8 +26,33 @@
     </thead>
     <tbody>
         <tr>
-            <td></td>
+            <td>Bali curls NOURISHING</td>
+            <td>Champu</td>
+            <td>9,99€</td>
+        </tr>
+        <tr>
+            <td>As I Am Detanglein CLASSIC</td>
+            <td>Acondicionador</td>
+            <td>9,99€</td>
+        </tr>
+        <tr>
+            <td>As i Am Coconut Classic</td>
+            <td>Leave in conditioner</td>
+            <td>12.99€</td>
+        </tr>
+        <tr>
+            <td>Kinky-Curl</td>
+            <td>Crema fijadora</td>
+            <td>32.99€</td>
         </tr>
     </tbody>
+    <tfoot>
+        <tr>
+            <td>Total:</td>
+            <td></td>
+            <td>66€</td>
+        </tr>
+    </tfoot>
+    </table>
 </body>
 </html>
